@@ -1,6 +1,6 @@
 # Java Kampı [Kodlama.io](https://www.kodlama.io/)
 
-![alt text](dataset-cover.jpg)
+![alt text](logo.png)
 
 
 ## 1. Hafta
